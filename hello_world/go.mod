@@ -1,4 +1,4 @@
-module example.com/hello_world
+module github.com/wangdayong228/test-go-workspace/hello_world
 
 go 1.18
 

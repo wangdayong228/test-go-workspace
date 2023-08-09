@@ -1,7 +1,7 @@
 package main
 
 import (
-	"example.com/common"
+	"github.com/wangdayong228/test-go-workspace/common"
 )
 
 func main() {
